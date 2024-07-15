@@ -5,7 +5,7 @@
     "description": "REST API with Express and Firestore",
     "version": "1.0.0"
   },
-  "host": "restapi-v3ws.onrender.com.com",
+  "host": "restapi-v3ws.onrender.com",
   "basePath": "/api",
   "schemes": [
     "https"
