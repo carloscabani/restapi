@@ -8,7 +8,7 @@ const doc = {
   //"host": 'localhost:5500'
   "host": 'https://restapi-v3ws.onrender.com/', 
   "schemes": [
-     "http" 
+     "https" 
    ],
   "basePath": "/api",
 };
