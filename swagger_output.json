@@ -33,7 +33,8 @@
             "name": "Token",
             "in": "header",
             "description": "JWT token",
-            "required": true
+            "required": true,
+            "type": "string"
           }
         ],
         "responses": {
@@ -59,7 +60,8 @@
             "name": "Token",
             "in": "header",
             "description": "JWT token",
-            "required": true
+            "required": true,
+            "type": "string"
           }
         ],
         "responses": {
@@ -94,7 +96,8 @@
             "name": "Token",
             "in": "header",
             "description": "JWT token",
-            "required": true
+            "required": true,
+            "type": "string"
           }
         ],
         "responses": {
@@ -125,7 +128,8 @@
             "name": "Token",
             "in": "header",
             "description": "JWT token",
-            "required": true
+            "required": true,
+            "type": "string"
           }
         ],
         "responses": {
@@ -153,7 +157,8 @@
             "name": "Token",
             "in": "header",
             "description": "JWT token",
-            "required": true
+            "required": true,
+            "type": "string"
           }
         ],
         "responses": {
