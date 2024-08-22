@@ -56,6 +56,11 @@ exports.getItem = async (req, res) => {
        #swagger.tags = ['Items']
        #swagger.description = 'Get an item entry'
        #swagger.summary = 'Get an item entry'
+       #swagger.parameters['token'] = {
+         in: 'header',
+         description: 'Token from Security',
+         required: true
+     }
        #swagger.parameters['id'] = {
            description: 'Item id',
            required: true,
