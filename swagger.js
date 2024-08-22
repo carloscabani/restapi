@@ -5,7 +5,7 @@ const doc = {
     "title": 'REST API',
     "description": 'REST API with Express and Firestore'
   },
-  "host": 'https://restapi-v3ws.onrender.com', 
+  "host": 'restapi-v3ws.onrender.com', 
   "schemes": [
      "https" 
    ],
